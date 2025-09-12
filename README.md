@@ -52,3 +52,5 @@ npm run dev
 🙌 Team - Crop Coders
 
 Developed as part of Smart Krishi Hackathon to digitally empower farmers.
+
+Check interface.jpeg to get idea of the app
