@@ -52,6 +52,3 @@ npm run dev
 🙌 Team - Crop Coders
 
 Developed as part of Smart Krishi Hackathon to digitally empower farmers.
-
-
-Would you like me to also add a **“Future Roadmap” section** (like AI crop prediction, voice-based c
