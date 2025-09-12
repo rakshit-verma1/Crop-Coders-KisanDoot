@@ -1,12 +1,57 @@
-# React + Vite
+# 🌾 KisanDoot - Smart Krishi Hackathon Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+KisanDoot is a **React + Capacitor mobile application** developed for the **Smart Krishi Hackathon**.  
+It aims to empower farmers with digital tools for crop management, financial planning, expert advice, and AI-powered assistance.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features (Current)
+- 📢 **Latest Feed** – Stay updated with agri news & weather  
+- 🩺 **Doctor** – Get expert guidance for crop health (UI ready, backend in progress)  
+- 💬 **Multilingual Chatbot** – Static AI chatbot for farmers (supports Indian languages, backend not yet integrated)  
+- 🧮 **Calculator** – Simple financial planning tool for farmers  
+- 🌱 **Crop Lifecycle Management** – Create and manage crop activities (UI integrated, more features in progress)  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React, Capacitor  
+- **Backend (Work in Progress):** Node.js / Express  
+- **Database (Planned):** Firebase / MongoDB  
+- **AI/ML (Planned):** NLP-powered chatbot, crop advisory models  
+
+---
+
+## 📂 Installation & Running Locally
+Follow these steps to set up the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/rakshit-verma1/Crop-Coders-KisanDoot
+
+# Navigate into the project folder
+cd Crop-Coders-KisanDoot
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+# 📌 Current Status
+
+✅ Chatbot (static, multilingual support for Indian languages)
+
+✅ Calculator for financial planning
+
+🔄 Doctor consultation (backend integration pending)
+
+🔄 Latest Feed & Weather (data integration in progress)
+
+🔄 Crop Lifecycle features (extended support in development)
+
+🙌 Team - Crop Coders
+
+Developed as part of Smart Krishi Hackathon to digitally empower farmers.
+
+
+Would you like me to also add a **“Future Roadmap” section** (like AI crop prediction, voice-based c
