@@ -3,6 +3,8 @@
 KisanDoot is a **React + Capacitor mobile application** developed for the **Smart Krishi Hackathon**.  
 It aims to empower farmers with digital tools for crop management, financial planning, expert advice, and AI-powered assistance.
 
+
+Deployed Web App : [https://kisandoot.vercel.app/]
 ---
 
 ## 🚀 Features (Current)
